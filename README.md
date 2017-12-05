@@ -3,3 +3,5 @@ As part of this Udacity AI Nanodegree project, I built an adversarial search age
 -alpha-beta pruning
 -fixed-depth or iterative deepening search
 -custom position evaluation heuristics.
+
+![Example game of isolation](viz.gif)
